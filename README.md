@@ -12,4 +12,4 @@
 <br>
 <p/>
 
-<div align="center"><!-- Top Languages --><img height="180em" src="https://github-readme-stats-eight-flax-50.vercel.app/api/top-langs/?username=lapitia&layout=compact&theme=rose_pine&hide_border=true&bg_color=FFFAFA&title_color=FF69B4&text_color=9370DB&langs_count=8&cache_seconds=1&v=2" alt="Top Languages" /></div>
+
