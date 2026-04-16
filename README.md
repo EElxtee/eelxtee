@@ -6,7 +6,7 @@
 <p>
 <img src="https://img.shields.io/badge/✰_Nickname:_EElxtee/power-C04000?style=for-the-badge&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/✰_Pronouns:_He/Him-C04000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✰_Pronouns:_Pow/er-C04000?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/✰_Passion: Nothing-C04000?style=for-the-badge"/>
 <br>
