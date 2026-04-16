@@ -2,13 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=F7131D&center=true&width=435&lines=You+are+Gay!+%3A)" alt="Typing SVG" /></a>
 ## 
-![Static](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=ff99c2&lines=🍓+About+Me&pause=99999999&width=500)
+![Static](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=d27d2dlines=🍓+About+Me&pause=99999999&width=500)
 <p>
-<img src="https://img.shields.io/badge/୨♡୧_Nickname:_EElxtee/eelxtee-FFB6C1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/✰_Nickname:_EElxtee/power-C04000?style=for-the-badge&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/୨♡୧_Pronouns:_He/Him-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✰_Pronouns:_He/Him-C04000?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/୨♡୧_Passion:Tryng to be a Programmer-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✰_Passion:Tryng to be a Programmer-C04000?style=for-the-badge"/>
 <br>
 <p/>
 
